@@ -67,3 +67,12 @@ body {
   font-size: 1.2em;
   color: #555;
 }
+
+#feedBack {
+  margin-top: 20px;
+  font-size: 18px;
+  color: #333;
+  padding: 10px;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
